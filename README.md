@@ -4,7 +4,7 @@
 
 
 ## My Github
-- Maintainer of （[markdown-tool](https://github.com/keep-promise/markdown-toolbox))
+- （[markdown-tool](https://github.com/keep-promise/markdown-toolbox))
 
 
 ## Languages
