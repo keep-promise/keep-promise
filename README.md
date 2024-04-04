@@ -5,7 +5,7 @@
 
 ## My Github
 - （[tarojs开发的商城模板](https://github.com/keep-promise/tarojs-mall))
-- （[react-native开发的数独](https://github.com/keep-promise/rn_shudu))
+- （[react-native开发数独游戏](https://github.com/keep-promise/rn_shudu))
 - （[markdown工具](https://github.com/keep-promise/markdown-toolbox))
 
 
